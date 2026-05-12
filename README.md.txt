@@ -15,11 +15,11 @@ This project demonstrates the design and simulation of an OR Gate using Synopsys
 
 ### OR Gate
 
-![Symbol](schematic.jpeg)
+![schematic](schematic.jpeg)
 
 ### Waveform
 
-![Waveform](waveform.jpeg)
+![waveform](waveform.jpeg)
 
 ## Author
 
