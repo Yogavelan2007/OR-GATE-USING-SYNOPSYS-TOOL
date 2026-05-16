@@ -8,8 +8,10 @@ This project demonstrates the design and simulation of an OR Gate using Synopsys
 
 ## Project Contents
 
-* OR Gate 
+* OR Schematic
+* OR Symbol 
 * Simulation waveform
+
 
 ## Output Images
 
