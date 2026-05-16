@@ -13,9 +13,13 @@ This project demonstrates the design and simulation of an OR Gate using Synopsys
 
 ## Output Images
 
-### OR Gate
+### OR Schematic
 
-![schematic](schematic.jpeg)
+![schematic](or_schematic.jpeg)
+
+### OR Symbol
+
+![Symbol](symbol.jpeg)
 
 ### Waveform
 
